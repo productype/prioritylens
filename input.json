@@ -1,0 +1,32 @@
+[
+  {
+    "id": "fb_001",
+    "text": "The app crashes every time I try to upload a file larger than 10MB. This is really frustrating because I need to upload reports for my team.",
+    "source": "zendesk",
+    "timestamp": "2025-02-19T10:30:00Z"
+  },
+  {
+    "id": "fb_002",
+    "text": "I love the product but I wish there was a dark mode. I work late at night and the bright screen is hard on my eyes.",
+    "source": "survey",
+    "timestamp": "2025-02-19T11:45:00Z"
+  },
+  {
+    "id": "fb_003",
+    "text": "We're a team of 50 and the per-seat pricing is making it hard to justify rolling this out company-wide. Any volume discounts?",
+    "source": "sales_call",
+    "timestamp": "2025-02-19T14:00:00Z"
+  },
+  {
+    "id": "fb_004",
+    "text": "The dashboard takes about 30 seconds to load when I have more than 100 projects. This makes it nearly unusable for power users.",
+    "source": "in_app_feedback",
+    "timestamp": "2025-02-19T15:20:00Z"
+  },
+  {
+    "id": "fb_005",
+    "text": "I can never find the export button. I've looked everywhere in the UI but it's just not intuitive where that feature lives.",
+    "source": "support_ticket",
+    "timestamp": "2025-02-19T16:10:00Z"
+  }
+]
